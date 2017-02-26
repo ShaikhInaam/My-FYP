@@ -4,5 +4,6 @@
 4. after importing, right click on the project and go to build path and configure build path
 5. click on add externel jars and import all jar files from jar files folder
 6. unzip we-services.zip and import it in to eclipse
-7. right click on web application security scanner and run as run on server for run the web application
-8. right click on RESTful Example and run as run on server for web services
+7. import sql file in to mysql database
+8. right click on web application security scanner and run as run on server for run the web application
+9. right click on RESTful Example and run as run on server for web services
