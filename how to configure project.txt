@@ -1,0 +1,8 @@
+1. unzip jar files.zip and place it in your drive anywhere
+2. unzip Phantomjs-2.1.1-windows.zip and place it in your E: directory
+3. unzip web-application-security-scanner.zip and import it in to eclipse
+4. after importing, right click on the project and go to build path and configure build path
+5. click on add externel jars and import all jar files from jar files folder
+6. unzip we-services.zip and import it in to eclipse
+7. right click on web application security scanner and run as run on server for run the web application
+8. right click on RESTful Example and run as run on server for web services
